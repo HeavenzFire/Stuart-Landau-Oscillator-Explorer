@@ -1,0 +1,5 @@
+{
+  "name": "Stuart-Landau Oscillator Explorer",
+  "description": "An interactive application to simulate and visualize the dynamics of a higher-dimensional Stuart-Landau system. Users can control system parameters and observe the evolution of the oscillator state on a toroidal attractor.",
+  "requestFramePermissions": []
+}
